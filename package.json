@@ -1,0 +1,23 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "Personalized React boilerplate project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tpeskie/react-boilerplate.git"
+  },
+  "keywords": [
+    "react",
+    "boilerplate"
+  ],
+  "author": "Tom Peskie <thomas.peskie@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tpeskie/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/tpeskie/react-boilerplate#readme"
+}
